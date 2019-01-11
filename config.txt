@@ -1,0 +1,6 @@
+owner=520866071889182721
+prefix=Q
+game=Qplay
+stayinchannel=true
+songinstatus=false
+token=NTMxMjM3MjEzODUwMzA0NTcz.DxLBAg.ROman1n5lEnq4AnQhBhkjRKOWZA
