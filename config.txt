@@ -1,6 +1,6 @@
-owner=520866071889182721
-prefix=Q
-game=Qplay
+owner=519273796243554354
+prefix=2
+game=2play
 stayinchannel=true
 songinstatus=false
-token=NTMxMjM3MjEzODUwMzA0NTcz.DxLBAg.ROman1n5lEnq4AnQhBhkjRKOWZA
+token=NTUxODk2NzcyMTUxMDgzMDM5.D13pcA.-5AEevJu4K5IXKaxc3b0Zw1Ba_c
